@@ -45,4 +45,4 @@ The RSS Read node is configured with **"Continue On Fail"** enabled. If the news
 
 ## 📸 Workflow Preview
 
-[n8n Workflow Screenshot](C:\Users\shrey\Downloads\N8N-Workflows\Weather and News\workflow.png)
+[n8n Workflow Screenshot](workflow.png)
